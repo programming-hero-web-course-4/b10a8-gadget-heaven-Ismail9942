@@ -1,0 +1,172 @@
+[
+  {
+    "product_id": 1,
+    "product_title": "Apple MacBook Air M2",
+    "product_image": "https://res.cloudinary.com/dz09ayocv/image/upload/v1738172982/macbook_20air-laptop_6001070C07_rwcdee.jpg",
+    "category": "Laptops",
+    "price": 1199,
+    "description": "Ultra-thin laptop with Apple M2 chip for high performance.",
+    "specification": [
+      "13.6-inch Retina display",
+      "Apple M2 chip",
+      "8GB RAM",
+      "256GB SSD",
+      "16-hour battery life"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 2,
+    "product_title": "Dell XPS 15",
+    "product_image": "https://res.cloudinary.com/dz09ayocv/image/upload/v1738173219/laptop-no-2_nnzogo.jpg",
+    "category": "Laptops",
+    "price": 1599,
+    "description": "Powerful laptop with a stunning 15-inch 4K display.",
+    "specification": [
+      "15.6-inch 4K OLED display",
+      "Intel Core i7-11th Gen",
+      "16GB RAM",
+      "512GB SSD",
+      "Dedicated NVIDIA GeForce GTX 1650 Ti"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 3,
+    "product_title": "HP Spectre x360 14",
+    "product_image": "https://res.cloudinary.com/dz09ayocv/image/upload/v1738173464/w0zaz6i0ptndfv5pa2yo.jpg",
+    "category": "Laptops",
+    "price": 1399,
+    "description": "A convertible laptop with stunning design and powerful specs.",
+    "specification": [
+      "13.5-inch OLED display",
+      "Intel Core i7-11th Gen",
+      "16GB RAM",
+      "512GB SSD",
+      "360-degree hinge"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 4,
+    "product_title": "Lenovo ThinkPad X1 Carbon",
+    "product_image": "https://res.cloudinary.com/dz09ayocv/image/upload/v1738173570/vyvnocehrd8lypcfq9dd.jpg",
+    "category": "Laptops",
+    "price": 1799,
+    "description": "Business laptop with lightweight build and long battery life.",
+    "specification": [
+      "14-inch Full HD display",
+      "Intel Core i7-10th Gen",
+      "16GB RAM",
+      "512GB SSD",
+      "18-hour battery life"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 5,
+    "product_title": "Asus ROG Zephyrus G14",
+    "product_image": "https://res.cloudinary.com/dz09ayocv/image/upload/v1738173673/images_ypkqhq.jpg",
+    "category": "Laptops",
+    "price": 1599,
+    "description": "Gaming laptop with AMD Ryzen and powerful graphics.",
+    "specification": [
+      "14-inch Full HD display",
+      "AMD Ryzen 9 5900HS",
+      "16GB RAM",
+      "1TB SSD",
+      "NVIDIA GeForce RTX 3060"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 6,
+    "product_title": "Microsoft Surface Laptop 4",
+    "product_image": "https://res.cloudinary.com/dz09ayocv/image/upload/v1738173789/cmmbngxf6187mxrhswyo.jpg",
+    "category": "Laptops",
+    "price": 1499,
+    "description": "Stylish laptop with a brilliant PixelSense touchscreen.",
+    "specification": [
+      "15-inch PixelSense display",
+      "Intel Core i7-11th Gen",
+      "16GB RAM",
+      "512GB SSD",
+      "Up to 32 hours of battery life"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 7,
+    "product_title": "Samsung Galaxy S22 Ultra",
+    "product_image": "https://res.cloudinary.com/dz09ayocv/image/upload/v1738173856/images_hgmmnd.jpg",
+    "category": "Smartphones",
+    "price": 1199,
+    "description": "Premium flagship phone with a 108MP camera and 5G support.",
+    "specification": [
+      "6.8-inch Dynamic AMOLED display",
+      "Qualcomm Snapdragon 8 Gen 1",
+      "12GB RAM",
+      "512GB storage",
+      "108MP camera"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 8,
+    "product_title": "Apple iPhone 14 Pro Max",
+    "product_image": "https://res.cloudinary.com/dz09ayocv/image/upload/v1738173927/kw7y5kdnu7elyvvhhdnj.jpg",
+    "category": "Smartphones",
+    "price": 1099,
+    "description": "Next-gen iPhone with A16 Bionic chip and ProMotion display.",
+    "specification": [
+      "6.7-inch Super Retina XDR display",
+      "Apple A16 Bionic chip",
+      "6GB RAM",
+      "128GB storage",
+      "48MP camera"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 9,
+    "product_title": "Sony WH-1000XM4",
+    "product_image": "https://res.cloudinary.com/dz09ayocv/image/upload/v1738174024/images_r1ptlv.jpg",
+    "category": "Headphones",
+    "price": 349,
+    "description": "Noise-canceling headphones with premium sound quality.",
+    "specification": [
+      "Noise-canceling technology",
+      "30-hour battery life",
+      "Touch controls",
+      "Bluetooth connectivity",
+      "Alexa and Google Assistant support"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 10,
+    "product_title": "Bose QuietComfort 45",
+    "product_image": "https://res.cloudinary.com/dz09ayocv/image/upload/v1738174103/images_oou8pn.jpg",
+    "category": "Headphones",
+    "price": 329,
+    "description": "Comfortable, high-quality noise-canceling headphones.",
+    "specification": [
+      "Noise-canceling technology",
+      "24-hour battery life",
+      "Comfortable fit",
+      "Bluetooth connectivity",
+      "Compatible with voice assistants"
+    ],
+    "availability": true,
+    "rating": 4.8
+  }
+]

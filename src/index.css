@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap");
+
+@import "tailwindcss";
+@plugin "daisyui";
+
+html {
+  font-family: "Sara", sans-sarif;
+  overflow-y: scroll;
+}
+
+.bg-banner {
+  height: 39vh;
+  background-image: url("./assets/banner.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
